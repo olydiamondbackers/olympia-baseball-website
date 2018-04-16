@@ -1,0 +1,17 @@
+title:             Olympia Bears Baseball
+email:             your-email@example.com
+description:       Earn It.
+baseurl:           "/"
+url:               "http://www.olympiabearsbaseball.com"
+
+# Social Profiles
+twitter_username:  OHSDBackers
+facebook_username: OHSDiamondbackers
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
