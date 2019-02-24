@@ -4,7 +4,7 @@ title:  "Springtime Means Flower Baskets!"
 subtitle: "The annual flower basket fundraiser is underway."
 date:   2018-03-19
 author: Olympia Baseball
-pin: true
+pin: false
 ---
 
 These sunny spring days remind us that summer is not far away...and also that it's time for the Olympia Baseball annual Flower Basket fundraiser.
