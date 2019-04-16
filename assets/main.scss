@@ -3,3 +3,31 @@
 ---
 
 @import "styles";
+
+div.image-row {
+  margin-bottom: 0px;
+}
+
+img.sign-sponsor {
+  max-width: 150px;
+}
+
+p.sign-sponsor {
+  font-weight: bold;
+  vertical-align: top;
+  margin-top: 1px;
+  font-size: 80%;
+}
+
+div.sponsor-banner {
+  border-color: #696969;
+  background-color: #D3D3D3;
+  color: #191970;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+div.sponsor-banner p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

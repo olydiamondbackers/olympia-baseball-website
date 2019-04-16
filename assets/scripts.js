@@ -11,6 +11,7 @@ $(function () {
     console.log("permField value=" + $('#permField').val())
   })
 
-  drawDiamond();
+  //drawDiamond();
+  populateSignSponsors();
 
 })
