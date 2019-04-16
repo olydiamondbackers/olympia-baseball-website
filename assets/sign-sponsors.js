@@ -150,6 +150,7 @@ var sponsor_info = [
     "image_url": "https://abbeyrealty.com/wp-content/uploads/sites/59/2019/03/abbeylogo_white2.png"
   },
   {
+    "image_url": "/img/sponsor-logos/all-season-decks.jpg",
     "name": "All Seasons Decks"
   },
   {
