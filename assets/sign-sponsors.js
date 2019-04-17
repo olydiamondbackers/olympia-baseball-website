@@ -205,6 +205,10 @@ var sponsor_info = [
   {
     "name": "Papa John's Pizza - Tumwater",
     "image_url": "https://www.papajohns.com/static-assets/ltc/img/logo-small.svg"
+  },
+  {
+    "name": "Dr. Tom Herrick DDS",
+    "image_url": "/img/sponsor-logos/Herrick.png"
   }
 ]
 ;
