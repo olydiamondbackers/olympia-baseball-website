@@ -77,17 +77,13 @@ var sponsor_info = [
     "image_url": "https://static.wixstatic.com/media/6a11a9_228b5d3d5caf4a22b09a427c7c7072fa~mv2.png"
   },
   {
-    "name": "Greene Realty: Rhyan Smith",
-    "image_url": "https://b386363e680359b5cc19-97ec1140354919029c7985d2568f0e82.ssl.cf1.rackcdn.com/assets/uploads/setting/company_header_logo/1658/401f274dbbdcd19537afc2f62b2e8052.png"
-  },
-  {
     "name": "Heritage Bank",
     "background_color": "#005298",
     "image_url": "https://www.heritagebanknw.com/home/diFiles/skins/default/images/heritagebank_logo_header_552x130_2x.png"
   },
   {
     "name": "Inspire Physical Therapy: Sean Sipe",
-    "image_url": "https://blogsdir.imgix.net/876/files/photos/Inspire_PHT_NEW.jpg"
+    "image_url": "/img/sponsor-logos/inspire.png"
   },
   {
     "name": "Kapust Orthodontics",
@@ -107,7 +103,8 @@ var sponsor_info = [
   },
   {
     "name": "Austin Smith DDS",
-    "image_url": "https://www.arsmithdds.com/wp-content/uploads/sites/65/2017/03/Header-New-03-08-17.jpg"
+    "background_color": "#606c79",
+    "image_url": "https://www.arsmithdds.com/wp-content/uploads/2019/05/logo.png"
   },
   {
     "name": "Cal Ripken Baseball",
@@ -115,7 +112,7 @@ var sponsor_info = [
   },
   {
     "name": "Meconi's",
-    "image_url": "http://www.meconissubs.com/wp-content/uploads/2013/01/meconissubslogo1-e1358799045784.png"
+    "image_url": "https://static1.squarespace.com/static/5e2c90fb863cd80036e5346b/t/5e2c91c0e2129124f01f580f/1581709760858/?format=1500w"
   },
   {
     "name": "Merrill Lynch: Dennis Bloom",
@@ -123,7 +120,7 @@ var sponsor_info = [
   },
   {
     "name": "Olympia Federal Savings",
-    "image_url": "https://www.olyfed.com/images/logo.png"
+    "image_url": "https://www.olyfed.com/wp-content/themes/olyfed/images/logos/olyfed-btm-520w.png"
   },
   {
     "name": "Reliable Electric",
@@ -131,11 +128,6 @@ var sponsor_info = [
   },
   {
     "name": "State Farm Insurance: Bill Brown",
-    "background_color": "#e71828",
-    "image_url": "https://static1.st8fm.com/en_US/dxl-1x/prod/css/images/header/state-farm-logo.svg"
-  },
-  {
-    "name": "State Farm Insurance: Kevin Hayward",
     "background_color": "#e71828",
     "image_url": "https://static1.st8fm.com/en_US/dxl-1x/prod/css/images/header/state-farm-logo.svg"
   },
@@ -155,7 +147,8 @@ var sponsor_info = [
   },
   {
     "name": "Wimberly ",
-    "image_url": "https://scontent-sea1-1.cdninstagram.com/vp/c86b0589cda8e0bdcc60ee49b5b037f0/5D448EC9/t51.2885-19/s320x320/17818805_1017519751713270_8621954865976836096_a.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com"
+    "background_color": "#000000",
+    "image_url": "/img/sponsor-logos/wimberly.png"
   },
   {
     "name": "American Pump",
@@ -163,7 +156,7 @@ var sponsor_info = [
   },
   {
     "name": "Subway located on Littlerock Road",
-    "image_url": "https://order.subway.com/Images/Subway/logo_small.png"
+    "image_url": "https://order.subway.com/Assets/RemoteOrder/img/subway-logo.PNG"
   },
   {
     "name": "L&L Hawaiian BBQ",
@@ -196,7 +189,7 @@ var sponsor_info = [
   },
   {
     "name": "Olympia Orthopaedic Associates ",
-    "image_url": "https://www.olyortho.com/sites/all/themes/olyortho/images/logo.svg"
+    "image_url": "https://olyortho.com/wp-content/uploads/2018/03/Olympialogo-Horizontal.png"
   },
   {
     "name": "AJB Landscaping ",
@@ -209,6 +202,43 @@ var sponsor_info = [
   {
     "name": "Dr. Tom Herrick DDS",
     "image_url": "/img/sponsor-logos/Herrick.png"
+  },
+  {
+    "name": "Dutch Bros",
+    "image_url": "/img/sponsor-logos/dutch-bros.png"
+  },
+  {
+    "name": "Vic's Pizza",
+    "image_url": "https://static.wixstatic.com/media/3194d8_995df5d2a261448b952ae8c733b8a24a~mv2.png/v1/fill/w_344,h_292,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202019-08-22%20at%201_07_27%20PM.webp"
+  },
+  {
+    "name": "Bayview Lumber",
+    "image_url": "https://86cb8127dc14737f5057-7c0671222953158607ea93d5febd68b4.ssl.cf1.rackcdn.com/799/assets/v1/292000/292849/logo.jpg"
+  },
+  {
+    "name": "Scatter Creek Landscape & Home Repair",
+    "image_url": "http://scattercreeklandscape.com/var/m_a/ae/aed/42691/454439-logo-web2.gif"
+  },
+  {
+    "name": "Aurora Lasik",
+    "image_url": "https://auroralasik.com/wp-content/uploads/2018/12/Aurora-LASIK-rgb-e1545425657477.png"
+  },
+  {
+    "name": "Mortgage One Northwest",
+    "image_url": "https://static.wixstatic.com/media/72f518_487f5f4947b64814a05cc3edf932540d.jpg/v1/fill/w_680,h_190,al_c,lg_1,q_80/72f518_487f5f4947b64814a05cc3edf932540d.webp"
+  },
+  {
+    "name": "Greene Commercial Realty - Quint Newell",
+    "image_url": "/img/sponsor-logos/Greene-Newell.png"
+  },
+  {
+    "name": "Live Well Home Group",
+    "background_color": "#698a7f",
+    "image_url": "https://cdn1.brivityidx.com/assets/images/uploads/6381/large_combined_logo1.png"
+  },
+  {
+    "name": "Eye Love Olympia",
+    "image_url": "https://static1.squarespace.com/static/5c3293d6af20963c94e4063d/t/5cdf2986daf0a500013c1a45/1578172660005/?format=1500w"
   }
 ]
 ;
