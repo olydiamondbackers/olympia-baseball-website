@@ -209,7 +209,7 @@ var sponsor_info = [
   },
   {
     "name": "Vic's Pizza",
-    "image_url": "https://static.wixstatic.com/media/3194d8_995df5d2a261448b952ae8c733b8a24a~mv2.png/v1/fill/w_344,h_292,al_c,q_85,usm_0.66_1.00_0.01/Screen%20Shot%202019-08-22%20at%201_07_27%20PM.webp"
+    "image_url": "https://static.wixstatic.com/media/3194d8_995df5d2a261448b952ae8c733b8a24a~mv2.png"
   },
   {
     "name": "Bayview Lumber",
@@ -225,7 +225,7 @@ var sponsor_info = [
   },
   {
     "name": "Mortgage One Northwest",
-    "image_url": "https://static.wixstatic.com/media/72f518_487f5f4947b64814a05cc3edf932540d.jpg/v1/fill/w_680,h_190,al_c,lg_1,q_80/72f518_487f5f4947b64814a05cc3edf932540d.webp"
+    "image_url": "https://static.wixstatic.com/media/72f518_487f5f4947b64814a05cc3edf932540d.jpg"
   },
   {
     "name": "Greene Commercial Realty - Quint Newell",
