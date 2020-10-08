@@ -164,7 +164,7 @@ var sponsor_info = [
   },
   {
     "name": "Stewart Painting",
-    "image_url": "http://olympiapainter.com/wp-content/uploads/2015/09/cropped-StewartPainting.png"
+    "image_url": "/img/sponsor-logos/cropped-StewartPainting.png"
   },
   {
     "name": "Moss/Wall Orthodontics",
