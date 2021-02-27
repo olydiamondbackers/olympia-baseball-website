@@ -56,7 +56,7 @@ function shuffleArray(array) {
 var sponsor_info = [
   {
     "name": "Capital Medical Center",
-    "image_url": "https://capitalmedical.com/wp-content/uploads/2018/05/CapitalMedicalCenter_with-tag_RGB_WEB.png"
+    "image_url": "https://www.capitalmedical.com/sites/capital/assets/global/capital-medical-center-logo.png"
   },
   {
     "name": "Coldwell Banker",
@@ -95,7 +95,7 @@ var sponsor_info = [
   },
   {
     "name": "L&E Bottling",
-    "image_url": "http://olympiapepsi.com/wp-content/uploads/pepsi-website-logo.png"
+    "image_url": "https://olympiapepsi.com/wp-content/uploads/2020/02/Logo-300x171.png"
   },
   {
     "name": "Acme Fuel",
@@ -180,12 +180,12 @@ var sponsor_info = [
   },
   {
     "name": "Tumwater Collision",
-    "image_url": "http://tumwatercollision.com/images/tumwater_collision_logo2_x4pu.jpg"
+    "image_url": "/img/sponsor-logos/tumwater-collision.jpeg"
   },
   {
     "name": "Washington Tractor",
     "background_color": "#333333",
-    "image_url": "https://www.washingtontractor.com/images/Washington-Tractor-2c-WG.png"
+    "image_url": "/img/sponsor-logos/washington-tractor.png"
   },
   {
     "name": "Olympia Orthopaedic Associates ",
@@ -234,11 +234,31 @@ var sponsor_info = [
   {
     "name": "Live Well Home Group",
     "background_color": "#698a7f",
-    "image_url": "https://cdn1.brivityidx.com/assets/images/uploads/6381/large_combined_logo1.png"
+    "image_url": "/img/sponsor-logos/LiveWell.jpg"
   },
   {
     "name": "Eye Love Olympia",
     "image_url": "https://static1.squarespace.com/static/5c3293d6af20963c94e4063d/t/5cdf2986daf0a500013c1a45/1578172660005/?format=1500w"
+  },
+  {
+    "name": "South Sound YMCA",
+    "image_url": "/img/sponsor-logos/ymca-3-logo-png-transparent.png"
+  },
+  {
+    "name": "Print NW",
+    "image_url": "/img/sponsor-logos/PrintNW_GRN.png"
+  },
+  {
+    "name": "Genie Payroll Plus",
+    "image_url": "https://geniepayrollplus.com/wp-content/themes/genie/assets/img/genie-payroll-plus-logo.svg"
+  },
+  {
+    "name": "Walker and Krause Dental",
+    "image_url": "/img/sponsor-logos/smile-olympia.jpg"
+  },
+  {
+    "name": "Greene Realty Group - Rhyan Smith",
+    "image_url": "https://b386363e680359b5cc19-97ec1140354919029c7985d2568f0e82.ssl.cf1.rackcdn.com/assets/uploads/setting/company_header_logo/1658/optimized_a6289e6f858a633a9e8578d002e12e01.png"
   }
 ]
 ;
