@@ -56,7 +56,7 @@ function shuffleArray(array) {
 var sponsor_info = [
   {
     "name": "Capital Medical Center",
-    "image_url": "https://www.capitalmedical.com/sites/capital/assets/global/capital-medical-center-logo.png"
+    "image_url": "img/sponsor-logos/capital-medical-center.png"
   },
   {
     "name": "Coldwell Banker",
@@ -119,10 +119,6 @@ var sponsor_info = [
     "image_url": "https://www.local.ml.com/olympia_wa/mediahandler/media/240746/ML_Logo_Blue_170x52.png"
   },
   {
-    "name": "Olympia Federal Savings",
-    "image_url": "https://www.olyfed.com/wp-content/themes/olyfed/images/logos/olyfed-btm-520w.png"
-  },
-  {
     "name": "Reliable Electric",
     "image_url": "https://www.reliableelectric.biz/i/logo.jpg"
   },
@@ -151,20 +147,12 @@ var sponsor_info = [
     "image_url": "/img/sponsor-logos/wimberly.png"
   },
   {
-    "name": "American Pump",
-    "image_url": "https://static.wixstatic.com/media/f472e0_38e12bae7c3a49b8a2f5e19dc80faef6~mv2.png"
-  },
-  {
     "name": "Subway located on Littlerock Road",
     "image_url": "https://order.subway.com/Assets/RemoteOrder/img/subway-logo.PNG"
   },
   {
     "name": "L&L Hawaiian BBQ",
-    "image_url": "https://www.hawaiianbarbecue.com/wp-content/themes/hawaiianbbq/assets/images/logo-ll-square-hawaii.png"
-  },
-  {
-    "name": "Stewart Painting",
-    "image_url": "/img/sponsor-logos/cropped-StewartPainting.png"
+    "image_url": "img/sponsor-logos/l-and-l.svg"
   },
   {
     "name": "Moss/Wall Orthodontics",
@@ -204,20 +192,12 @@ var sponsor_info = [
     "image_url": "/img/sponsor-logos/Herrick.png"
   },
   {
-    "name": "Dutch Bros",
-    "image_url": "/img/sponsor-logos/dutch-bros.png"
-  },
-  {
     "name": "Vic's Pizza",
     "image_url": "https://static.wixstatic.com/media/3194d8_995df5d2a261448b952ae8c733b8a24a~mv2.png"
   },
   {
     "name": "Bayview Lumber",
     "image_url": "https://86cb8127dc14737f5057-7c0671222953158607ea93d5febd68b4.ssl.cf1.rackcdn.com/799/assets/v1/292000/292849/logo.jpg"
-  },
-  {
-    "name": "Scatter Creek Landscape & Home Repair",
-    "image_url": "http://scattercreeklandscape.com/var/m_a/ae/aed/42691/454439-logo-web2.gif"
   },
   {
     "name": "Aurora Lasik",
@@ -250,15 +230,43 @@ var sponsor_info = [
   },
   {
     "name": "Genie Payroll Plus",
-    "image_url": "https://geniepayrollplus.com/wp-content/themes/genie/assets/img/genie-payroll-plus-logo.svg"
+    "image_url": "img/sponsor-logos/genie-payroll-plus.png"
   },
   {
     "name": "Walker and Krause Dental",
     "image_url": "/img/sponsor-logos/smile-olympia.jpg"
   },
   {
-    "name": "Greene Realty Group - Rhyan Smith",
-    "image_url": "https://b386363e680359b5cc19-97ec1140354919029c7985d2568f0e82.ssl.cf1.rackcdn.com/assets/uploads/setting/company_header_logo/1658/optimized_a6289e6f858a633a9e8578d002e12e01.png"
+    "name": "American Pump and Drilling",
+    "image_url": "/img/sponsor-logos/american-pump-and-electric.png"
+  },
+  {
+    "name": "Crossfit Olympia",
+    "image_url": "/img/sponsor-logos/crossfit-olympia.jpg"
+  },
+  {
+    "name": "Black Hills Excavating",
+    "image_url": "/img/sponsor-logos/black-hills-excavating.png"
+  },
+  {
+    "name": "Sunrise Landscaping and Tree Removal",
+    "image_url": "/img/sponsor-logos/sunrise-landscaping.jpg"
+  },
+  {
+    "name": "Humble Cow Ice Cream",
+    "image_url": "/img/sponsor-logos/humble-cow.jpg"
+  },
+  {
+    "name": "Caliber Home Loans",
+    "image_url": "/img/sponsor-logos/caliber-home-loans.jpg"
+  },
+  {
+    "name": "Olympia Federal Savings",
+    "image_url": "/img/sponsor-logos/oly-fed-savings.jpeg"
+  },
+  {
+    "name": "South Sound Driving School",
+    "image_url": "/img/sponsor-logos/south-sound-driving-school.png"
   }
 ]
 ;
