@@ -55,10 +55,6 @@ function shuffleArray(array) {
 
 var sponsor_info = [
   {
-    "name": "Capital Medical Center",
-    "image_url": "img/sponsor-logos/capital-medical-center.png"
-  },
-  {
     "name": "Coldwell Banker",
     "image_url": "https://www.cbolympia.com/coldwellbanker_evergreen/img/19957/logo.png"
   },
