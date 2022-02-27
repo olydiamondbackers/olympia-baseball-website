@@ -265,6 +265,10 @@ var sponsor_info = [
     "image_url": "/img/sponsor-logos/oly-fed-savings.jpeg"
   },
   {
+    "name": "Olympia Financial Services",
+    "image_url": "/img/sponsor-logos/ofs.png"
+  },
+  {
     "name": "South Sound Driving School",
     "image_url": "/img/sponsor-logos/south-sound-driving-school.png"
   }
