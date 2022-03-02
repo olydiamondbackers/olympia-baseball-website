@@ -59,10 +59,6 @@ var sponsor_info = [
     "image_url": "https://www.cbolympia.com/coldwellbanker_evergreen/img/19957/logo.png"
   },
   {
-    "name": "FirstLight Home Care",
-    "image_url": "https://www.firstlighthomecare.com/home-healthcare-olympia/wp-content/uploads/2017/05/FirstLight_logo_retina.png"
-  },
-  {
     "name": "Fisher Jones Family Dentistry",
     "background_color": "#124768",
     "image_url": "https://www.fisherjonesfamilydentistry.com/files/2015/01/FisherJonesLogo-Web-Banner-21.png"
@@ -90,10 +86,6 @@ var sponsor_info = [
     "image_url": "http://kj-wm.com/images/logo.png"
   },
   {
-    "name": "L&E Bottling",
-    "image_url": "https://olympiapepsi.com/wp-content/uploads/2020/02/Logo-300x171.png"
-  },
-  {
     "name": "Acme Fuel",
     "image_url": "https://www.acmefuel.com/wp-content/uploads/2018/04/acme_logo_transparent.png"
   },
@@ -111,22 +103,8 @@ var sponsor_info = [
     "image_url": "https://static1.squarespace.com/static/5e2c90fb863cd80036e5346b/t/5e2c91c0e2129124f01f580f/1581709760858/?format=1500w"
   },
   {
-    "name": "Merrill Lynch: Dennis Bloom",
-    "image_url": "https://www.local.ml.com/olympia_wa/mediahandler/media/240746/ML_Logo_Blue_170x52.png"
-  },
-  {
     "name": "Reliable Electric",
     "image_url": "https://www.reliableelectric.biz/i/logo.jpg"
-  },
-  {
-    "name": "State Farm Insurance: Bill Brown",
-    "background_color": "#e71828",
-    "image_url": "https://static1.st8fm.com/en_US/dxl-1x/prod/css/images/header/state-farm-logo.svg"
-  },
-  {
-    "name": "State Farm Insurance: Reggie Johnson",
-    "background_color": "#e71828",
-    "image_url": "https://static1.st8fm.com/en_US/dxl-1x/prod/css/images/header/state-farm-logo.svg"
   },
   {
     "name": "Abbey Realty: Jami Downing",
