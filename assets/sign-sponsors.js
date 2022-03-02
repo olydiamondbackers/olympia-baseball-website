@@ -267,6 +267,14 @@ var sponsor_info = [
   {
     "name": "South Sound Driving School",
     "image_url": "/img/sponsor-logos/south-sound-driving-school.png"
+  },
+  {
+    "name": "ILWU Local 47",
+    "image_url": "/img/sponsor-logos/ilwu47.png"
+  },
+  {
+    "name": "Bloom Williams Group",
+    "image_url": "/img/sponsor-logos/Bloom.png"
   }
 ]
 ;
